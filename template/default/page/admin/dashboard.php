@@ -167,7 +167,7 @@
                                 </div>
                                 <div class="flex-grow-1">
                                     <h5 class="mb-1">Need Help?</h5>
-                                    <a href="https://github.com/bixadotapp/bixa/issues" class="text-muted" target="_blank">Open an issue in Github</a>
+                                    <a href="https://github.com/bixacloud/bixa/issues" class="text-muted" target="_blank">Open an issue in Github</a>
                                 </div>
                             </div>
                         </div>
@@ -188,7 +188,7 @@
                                 </div>
                                 <div class="flex-grow-1">
                                     <h5 class="mb-1">Contribute</h5>
-                                    <a href="https://github.com/bixadotapp/bixa/#help" class="text-muted" target="_blank">Check here</a>
+                                    <a href="https://github.com/bixacloud/bixa/#help" class="text-muted" target="_blank">Check here</a>
                                 </div>
                             </div>
                         </div>
